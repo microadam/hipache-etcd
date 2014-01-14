@@ -1,0 +1,13 @@
+{
+  "name": "hipache-etcd",
+  "version": "0.0.0",
+  "description": "Link hipache and etcd",
+  "main": "index.js",
+  "author": "Adam Duncan <adam.jd@gmail.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "redis": "~0.10.0",
+    "node-etcd": "~2.0.4",
+    "async": "~0.2.9"
+  }
+}
